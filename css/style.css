@@ -75,7 +75,7 @@ textarea {
 \*------------------------------------*/
 html {
     background-color: #f6f9f9;
-    color: #339999;
+    color: #666666;
     font: 13px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body {
@@ -152,7 +152,7 @@ ul, ol, dl {
     list-style-type: none;
 }
 a {
-    color: #666666;
+    color: #339999;
     //font-weight: bold;
 }
 a:hover, a:focus {
